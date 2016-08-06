@@ -1,0 +1,25 @@
+_repo: English-Poets-of-the-Eighteenth-Century_10161
+_version: 0.0.1
+alternative_title: English Poets of the 18th Century
+creator:
+  editor:
+    agent_name: Bernbaum, Ernest
+    birthdate: 1879
+    deathdate: 1958
+    gutenberg_agent_id: '3338'
+    url: http://www.gutenberg.org/2009/agents/3338
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10161'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 18th century'
+- !lcc 'PR'
+- GITenberg
+title: English Poets of the Eighteenth Century
+url: http://www.gutenberg.org/ebooks/10161
