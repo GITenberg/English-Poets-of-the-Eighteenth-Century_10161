@@ -1,6 +1,9 @@
 _repo: English-Poets-of-the-Eighteenth-Century_10161
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: English Poets of the 18th Century
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Bernbaum, Ernest
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '3338'
     url: http://www.gutenberg.org/2009/agents/3338
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10161#English-Poets-of-the-Eighteenth-Century
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
